@@ -127,7 +127,7 @@ section .title::after{
 }
 .navbar .media-icons a{
     color: #ffffff;
-    font-size: 36px;
+    font-size: 26px;
     margin: 0 6px;
   }
   nav.sticky .media-icons a{
